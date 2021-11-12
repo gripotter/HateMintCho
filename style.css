@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color:blueviolet;
+}
+li{
+    color: blueviolet;
+    text-decoration: underline;
+}
+.important{
+    color:blanchedalmond;
+}
+div label strong{
+   border: 1px solid rgb(0, 0, 0);
+}
+h3:hover{
+font-size: larger;
+color: hotpink;
+}
+a:hover{
+    font-size: 30pt;
+    color: deeppink;
+}
+h1:hover{
+    font-size: 40pt;
+}
+#refused:hover{
+    font-size: 0%;
+}
